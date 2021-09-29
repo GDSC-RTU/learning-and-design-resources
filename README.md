@@ -2,7 +2,8 @@
 
 <img src="https://image.flaticon.com/icons/png/128/2621/2621230.png" height="60px">
 
-> If you think there is a resource that would help everyone, fork, add your changes, and make a pull request!
+> If you think there is a resource that would help everyone, fork, add your changes, and make a pull request! See [How to Contribute](Contributing.md)
+> While you make a contribution, make sure that you follow the same semantics as followed in the project.
 
 # Learning Platforms 
 
