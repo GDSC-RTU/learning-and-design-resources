@@ -116,13 +116,66 @@ John Papa | https://johnpapa.net/ |
 - [Real World Algorithms: A Beginner's Guide](https://mitpress.mit.edu/books/real-world-algorithms) - An introduction to algorithms for readers with no background in advanced mathematics or computer science.
 
 
+## 5. Firebase - :
 
-## . Web Development - :
-- [Learn Enough to Be Dangerous](https://www.learnenough.com/) - Free online coding tutorials on JavaScript, Ruby, Rails, CSS and more.
+Build a better app and leave the operations to us. Save crucial development time and ship a high-quality, bug-free app.
+
+- [Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/) - Firebase Cloud Messaging (FCM) is a cross-platform messaging solution that lets you reliably deliver messages and notifications at no cost.
+
+- [Authentication](https://firebase.google.com/docs/auth/) - Firebase Authentication provides backend services, easy-to-use SDKs, and ready-made UI libraries to authenticate users to your app. It supports authentication using passwords, popular federated identity providers like Google, Facebook and Twitter, and more.
+
+- [Realtime Database](https://firebase.google.com/docs/database/) - The Firebase Realtime Database is a cloud-hosted database. Data is stored as JSON and synchronized in realtime to every connected client. When you build cross-platform apps with our iOS, Android, and JavaScript SDKs, all of your clients share one Realtime Database instance and automatically receive updates with the newest data.
+
+- [Storage](https://firebase.google.com/docs/storage/) - Firebase Storage is built for app developers who need to store and serve user-generated content, such as photos or videos.
+
+- [Hosting](https://firebase.google.com/docs/hosting/) - Firebase Hosting provides fast and secure static hosting for your web app.
+
+- [Remote Config](https://firebase.google.com/docs/remote-config/) - Firebase Remote Config is a cloud service that lets you change the behavior and appearance of your app without requiring users to download an app update.
+
+- [Test Lab](https://firebase.google.com/docs/test-lab/) - Firebase Test Lab for Android provides cloud-based infrastructure for testing Android apps. With one operation, you can initiate testing of your app across a wide variety of devices and device configurations.
+
+- [Crash Reporting](https://firebase.google.com/docs/crash/) - Crash Reporting creates detailed reports of the errors in your app. Errors are grouped into clusters of similar stack traces and triaged by the severity of impact on your users.
+
+## 6. Flutter - :
+
+- [Flutter Weekly](https://flutterweekly.news) 
+- [Flutter & Dart Packages](https://pub.dev/) 
+- [Flutter CodePen](https://codepen.io/flutter)
+
+## 7. Java - :
+
+ - [Core Java Tutorials](http://www.tutorialspoint.com/java/java_tutorial.pdf) -  Learn Basics of Java and Core java Concepts
+ - [Java Design Patterns](https://github.com/iluwatar/java-design-patterns) - Different java design patterns with their examples
+ - [Getting Started with Java](https://www.enggheads.com/#!lectureseries/1465637676467462) - Java Tutorials By Zen Softech
+
+## 8. Machine Learning - :
+
+[Machine Learning](http://hunch.net/)
+[Machine Learning Mastery](http://machinelearningmastery.com/blog/)
+[FastML](http://fastml.com/)
+[BigML](https://blog.bigml.com/)
+[CITY University of London](https://blogs.city.ac.uk/ml/)
+[Machine Learning, etc](http://yaroslavvb.blogspot.in/)
+[FastAI](http://fast.ai)
+[DatumBox](http://blog.datumbox.com/)
+[Machine Learning for Humans](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12)
+[Machine Learning 101 - An introduction](https://towardsdatascience.com/machine-learning-101-part-1-an-introduction-494cb654d50b)
+[ML CookBook](https://ml-book.com/blog)
+
+### Courses
+
+[Machine Learning](https://www.coursera.org/learn/machine-learning)
+[Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
+[Intro to Machine Learning](https://in.udacity.com/course/intro-to-machine-learning--ud120)
+[Machine Learning](https://in.udacity.com/course/machine-learning--ud262)
+[Machine Learning Foundation Nanodegree](https://in.udacity.com/course/machine-learning-engineer-nanodegree--nd009-in-basic/)
+[Machine Learning Engineer Nanodegree](https://in.udacity.com/course/machine-learning-engineer-nanodegree--nd009/)
+[Machine Learning for Trading](https://in.udacity.com/course/machine-learning-for-trading--ud501/)
+[Deep Learning](https://in.udacity.com/course/deep-learning--ud730/)
+[CS 20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/)
+
+## 9. Web Development -: 
+
 - [FreeCodeCamp](https://www.freecodecamp.org/) - Coding tutorials and challenges.
 - [Thimble](https://foundation.mozilla.org/en/artifacts/thimble/) - Free online code editor, web server, web browser & developer tools.
 - [NodeSchool](https://nodeschool.io/) - Open source workshops that teach web software skills.
-- [The Odin Project](https://www.theodinproject.com/) - A full free open source coding curriculum.
-
-
-
