@@ -186,7 +186,8 @@ Build a better app and leave the operations to us. Save crucial development time
 - [FreeCodeCamp](https://www.freecodecamp.org/) - Coding tutorials and challenges.
 - [Thimble](https://foundation.mozilla.org/en/artifacts/thimble/) - Free online code editor, web server, web browser & developer tools.
 - [NodeSchool](https://nodeschool.io/) - Open source workshops that teach web software skills.
-
+- [Mdn web docs](https://developer.mozilla.org/en-US/docs/Learn) - Web devlopment docs to refer while doubt or exploring.
+- [W3 school](https://www.w3schools.com/whatis/) -Good revision docs for web devlopment.
 
 
 ## 10. Python -:
