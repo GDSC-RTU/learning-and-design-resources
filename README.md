@@ -26,6 +26,11 @@
 - [Bento.io](https://bento.io/)
 - [Full Stack Open](https://fullstackopen.com/en/)
 - [Educative](https://www.educative.io/)
+- [W3 Schools](https://www.w3schools.com/)
+- [Microsoft Learn](https://docs.microsoft.com/pt-br/learn/)
+- [Hacker Noon](https://hackernoon.com/)
+- [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
+- [NodeSchool](https://nodeschool.io/pt-br/)
 
 ## 1. Android - :
 - [What is Android](https://www.android.com/what-is-android/)
