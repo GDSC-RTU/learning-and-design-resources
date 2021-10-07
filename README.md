@@ -191,7 +191,17 @@ Build a better app and leave the operations to us. Save crucial development time
 
 
 ## 10. Python -:
+- [Python Documantation](https://www.python.org/) 
 - [W3schools](https://www.w3schools.com/python/) - Coding tutorials.
+- [GeeksforGeeks](https://www.geeksforgeeks.org/python-programming-language/)
+
+### Youtube Channels
+
+-[Freecodecamp](https://www.youtube.com/watch?v=rfscVS0vtbw&t=3033s) Freecodecamp Crash Course
+-[Telusko](https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3) Python Tutorial for beginners
+-[Programming with Mosh](https://www.youtube.com/watch?v=_uQrJ0TkZlc&list=PLTjRvDozrdlxj5wgH4qkvwSOdHLOCx10f) Python Tutorial 
+
+
 
 ## 11. NodeJs -:
 
