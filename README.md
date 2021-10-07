@@ -223,3 +223,19 @@ using practical examples
 - [Beginning NodeJs](https://amzn.to/2ZTCnBN) -A good start for a beginner
  
  Download these e-books from [here](https://drive.google.com/drive/folders/1FOf1-f4L4oPyHQqsYis07ju7aM40bUyM?usp=sharing)
+
+
+## HTML5 - :
+
+Experiment with HTML code on [codepen.io](https://codepen.io/)
+
+### Documentation
+- [MDN Doumentation](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+- [W3Schools](https://www.w3schools.com/html/default.asp)
+- [DevDocs](https://devdocs.io/html/)
+- [Stanford University HTML5 Cheatsheet](https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf)
+
+### Youtube Videos
+- [HTML Full Course - Build a Website Tutorial](https://www.youtube.com/watch?v=pQN-pnXPaVg) By FreeCodeCamp
+- [HTML 5 Tutorial For Beginners In Hindi](https://www.youtube.com/watch?v=E3ByCRqE7Lo) By Code With Harry
+- [Learn HTML5 - full course with code samples](https://www.youtube.com/watch?v=DPnqb74Smug) By FreeCodeCamp
