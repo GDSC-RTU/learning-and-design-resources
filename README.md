@@ -268,6 +268,8 @@ Design Inspirations
 - [Dribbble](https://dribbble.com/search/website)
 - [Awwwards](https://www.awwwards.com/websites/com/)
 - [Collect UI](https://collectui.com/)
+- [Boxicon](https://boxicons.com/) High quality web icons
+- [Feather](https://feathericons.com/) Simply beautiful open source icons
 
 ### Practice Challanges
 - [Frontend Mentor](https://www.frontendmentor.io/challenges)
