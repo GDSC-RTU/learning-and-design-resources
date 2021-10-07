@@ -18,7 +18,7 @@ cd learning-and-design-resources
 **4.** Add a reference(remote) to the original repository.
 
 ```
-git remote add upstream https://github.com/ishubham21/learning-and-design-resources.git 
+git remote add upstream https://github.com/GDSC-RTU/learning-and-design-resources.git
 ```
 
 **5.** Check the remotes for this repository.
