@@ -203,16 +203,23 @@ Build a better app and leave the operations to us. Save crucial development time
 ### Courses
 
 Free courses to get hands-on experience in Nodejs
-- [Intro to NodeJS](https://www.greatlearning.in/academy/learn-for-free/courses/intro-to-nodejs)
-- [Course By IBM](https://developer.ibm.com/articles/learn-node-unit-1-overview-nodejs-learning-path/)
-- [JavaScript and DOM](https://www.udacity.com/course/javascript-and-the-dom--ud117)
-- [Learn to create backend app](https://www.udemy.com/course/free-create-a-node-js-backend-app-and-host-it-on-aws/)
+- [Intro to NodeJS](https://www.greatlearning.in/academy/learn-for-free/courses/intro-to-nodejs)  By GreatLearning
+- [Course By IBM](https://developer.ibm.com/articles/learn-node-unit-1-overview-nodejs-learning-path/) 
+- [JavaScript and DOM](https://www.udacity.com/course/javascript-and-the-dom--ud117) By Udacity
+- [Learn to create backend app](https://www.udemy.com/course/free-create-a-node-js-backend-app-and-host-it-on-aws/) by Udemy
 
 ### Youtube Channels
 - [Net Ninja](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
--
+- [Telusko](https://www.youtube.com/watch?v=vJEO57B05Sg) Nodejs Crash Course
+- [Programming Knowlwdge](https://www.youtube.com/watch?v=spPtAEmwys4&list=PLS1QulWo1RIb8IwHYfah5pxGU5jgNiEbK) NodeJs Tutorial for beginners
+
 ### Books
 
-Download e-book from here
-- [NodeJs for professional](https://drive.google.com/file/d/1JH4LvfDthacQhJo3KdiZEurrNFWQabj4/view?usp=sharing)
-- 
+-  [Node Cookbook](https://amzn.to/3Bos1bc) -For server site web development with nodejs 
+- [NodeJs Design Patterns](https://amzn.to/3lj43Z5) -Design and implement production-grade Node.js
+applications using proven patterns and techniques
+- [Nodejs WebDevelopment](https://amzn.to/3uRtF2h) -Server-side web development made easy with Node 14
+using practical examples
+- [Beginning NodeJs](https://amzn.to/2ZTCnBN) -A good start for a beginner
+ 
+ Download these e-books from [here](https://drive.google.com/drive/folders/1FOf1-f4L4oPyHQqsYis07ju7aM40bUyM?usp=sharing)
