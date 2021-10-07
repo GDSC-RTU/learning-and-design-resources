@@ -195,24 +195,24 @@ Build a better app and leave the operations to us. Save crucial development time
 
 ## 11. NodeJs -:
 
-- [Tutorials Point] (http://www.tutorialspoint.com/nodejs/)
-- [Node School] (http://nodeschool.io/)
-- [Tutorials Teacher] (https://www.tutorialsteacher.com/nodejs)
+- [Tutorials Point](http://www.tutorialspoint.com/nodejs/)
+- [Node School](http://nodeschool.io/)
+- [Tutorials Teacher](https://www.tutorialsteacher.com/nodejs)
 
 
 ### Courses
 
 Free courses to get hands-on experience in Nodejs
-- [Intro to NodeJS] (https://www.greatlearning.in/academy/learn-for-free/courses/intro-to-nodejs)
-- [Course By IBM] (https://developer.ibm.com/articles/learn-node-unit-1-overview-nodejs-learning-path/)
-- [JavaScript and DOM] (https://www.udacity.com/course/javascript-and-the-dom--ud117)
-- [Learn to create backend app]](https://www.udemy.com/course/free-create-a-node-js-backend-app-and-host-it-on-aws/)
+- [Intro to NodeJS](https://www.greatlearning.in/academy/learn-for-free/courses/intro-to-nodejs)
+- [Course By IBM](https://developer.ibm.com/articles/learn-node-unit-1-overview-nodejs-learning-path/)
+- [JavaScript and DOM](https://www.udacity.com/course/javascript-and-the-dom--ud117)
+- [Learn to create backend app](https://www.udemy.com/course/free-create-a-node-js-backend-app-and-host-it-on-aws/)
 
 ### Youtube Channels
-- [Net Ninja] (https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
+- [Net Ninja](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
 -
 ### Books
 
 Download e-book from here
-- [NodeJs for professional] (https://drive.google.com/file/d/1JH4LvfDthacQhJo3KdiZEurrNFWQabj4/view?usp=sharing)
+- [NodeJs for professional](https://drive.google.com/file/d/1JH4LvfDthacQhJo3KdiZEurrNFWQabj4/view?usp=sharing)
 - 
