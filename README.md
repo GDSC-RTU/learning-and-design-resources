@@ -191,7 +191,35 @@ Build a better app and leave the operations to us. Save crucial development time
 
 
 ## 10. Python -:
+- [Python Documantation](https://www.python.org/) 
 - [W3schools](https://www.w3schools.com/python/) - Coding tutorials.
+- [GeeksforGeeks](https://www.geeksforgeeks.org/python-programming-language/)
+
+### Youtube Channels
+
+-[Freecodecamp](https://www.youtube.com/watch?v=rfscVS0vtbw&t=3033s) Freecodecamp Crash Course
+-[Telusko](https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3) Python Tutorial for beginners
+-[Programming with Mosh](https://www.youtube.com/watch?v=_uQrJ0TkZlc&list=PLTjRvDozrdlxj5wgH4qkvwSOdHLOCx10f) Python Tutorial 
+
+### Courses
+Free courses for Python
+- [DATAFLAIR PYTHON](https://data-flair.training/python-course/)
+- [UpGrad](https://www.upgrad.com/blog/python-free-online-course/)
+- [Educative](https://www.educative.io/courses/learn-python-3-from-scratch) Learn Python 3 from Scratch
+- [Udemy](https://www.udemy.com/course/pythonforbeginnersintro/)
+- [Udemy](https://www.udemy.com/course/free-python/)
+
+### Books
+
+-[freecodecamp](https://www.freecodecamp.org/news/the-python-handbook/) - A good start for a beginner
+
+ Download these e-books from [here](https://drive.google.com/drive/folders/1zp4AXiY-lf4rz1qNm7jCas1MN4hTGEyU)
+ 
+### Practice Platform
+-[CodeChef](https://www.codechef.com/)
+-[Hackerrank](https://www.hackerrank.com/)
+-[Hackerearth](https://www.hackerearth.com/)
+
 
 ## 11. NodeJs -:
 
