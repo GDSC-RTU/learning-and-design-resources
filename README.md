@@ -233,3 +233,52 @@ using practical examples
 - [Beginning NodeJs](https://amzn.to/2ZTCnBN) -A good start for a beginner
  
  Download these e-books from [here](https://drive.google.com/drive/folders/1FOf1-f4L4oPyHQqsYis07ju7aM40bUyM?usp=sharing)
+
+
+## HTML5 - :
+
+Experiment with HTML code on [codepen.io](https://codepen.io/)
+
+### Documentation
+- [MDN Doumentation](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+- [W3Schools](https://www.w3schools.com/html/default.asp)
+- [DevDocs](https://devdocs.io/html/)
+- [Stanford University HTML5 Cheatsheet](https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf)
+
+### Youtube Videos
+- [HTML Full Course - Build a Website Tutorial](https://www.youtube.com/watch?v=pQN-pnXPaVg) By FreeCodeCamp
+- [HTML 5 Tutorial For Beginners In Hindi](https://www.youtube.com/watch?v=E3ByCRqE7Lo) By Code With Harry
+- [Learn HTML5 - full course with code samples](https://www.youtube.com/watch?v=DPnqb74Smug) By FreeCodeCamp
+
+## CSS - :
+
+Experiment with CSS code on [codepen.io](https://codepen.io/)
+
+### Documentation
+- [MDN Doumentation](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+- [W3Schools](https://www.w3schools.com/css/default.asp)
+- [DevDocs](https://devdocs.io/css/)
+- [Stanford University CSS Cheatsheet](https://web.stanford.edu/group/csp/cs21/csscheatsheet.pdf)
+
+### Youtube Videos
+- [CSS Tutorial - Zero to Hero (Complete Course)](https://www.youtube.com/watch?v=1Rs2ND1ryYc) By FreeCodeCamp
+- [CSS Tutorial In Hindi](https://www.youtube.com/watch?v=Edsxf_NBFrw) By Code With Harry
+- [CSS Flexbox Course](https://www.youtube.com/watch?v=-Wlt8NRtOpo) By FreeCodeCamp
+
+### Some Websites to help in Designing
+- [Curated colour palettes on colorhunt.co](https://colorhunt.co/)
+- [Create a Favicon with favicon.cc](https://www.favicon.cc/)
+- [Google Fonts](https://fonts.google.com/) to get different font styles for your website
+- [UI Patterns](http://ui-patterns.com/patterns) for different design patterns for your website
+Vectors, Stickers and Gifs for your websites
+- [Flaticon](https://www.flaticon.com/)
+- [Giphy](https://giphy.com/)
+- [Font Awesome](https://fontawesome.com/)
+Design Inspirations
+- [Dribbble](https://dribbble.com/search/website)
+- [Awwwards](https://www.awwwards.com/websites/com/)
+- [Collect UI](https://collectui.com/)
+
+### Practice Challanges
+- [Frontend Mentor](https://www.frontendmentor.io/challenges)
+- [Daily UI](https://www.dailyui.co/)
