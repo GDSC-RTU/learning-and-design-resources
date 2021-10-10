@@ -303,3 +303,12 @@ Design Inspirations
 ### Practice Challanges
 - [Frontend Mentor](https://www.frontendmentor.io/challenges)
 - [Daily UI](https://www.dailyui.co/)
+
+## Git
+- [Documentation](https://github.com/about)
+- [Cheat Sheet](https://www.freecodecamp.org/news/git-cheat-sheet/) - For Git commands one should know
+
+### Courses/Tutorials
+- [Youtube](https://youtu.be/apGV9Kg7ics) - Kunal Kushwaha
+- [Github Learning Lab](https://lab.github.com/)
+- [Udemy course](https://www.udemy.com/course/git-started-with-github/) - Get started with Git
