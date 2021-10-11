@@ -41,6 +41,29 @@
 - [Getting Started and be an Android Developer](https://developer.android.com/guide/slices/getting-started)
 - [Introduction](https://developer.android.com/guide)
 
+### Kotlin - :
+
+### Documantation
+-[Kotlin docs](https://kotlinlang.org/docs/home.html)
+-[programiz](https://www.programiz.com/kotlin-programming)
+-[beginnersbook](https://beginnersbook.com/2017/12/kotlin-tutorial/)
+-[Guru99](https://www.guru99.com/kotlin-tutorial.html)
+
+### YouTube Channels
+-[Kotlin by JetBrains](https://www.youtube.com/c/Kotlin/playlists)
+-[FreeCodeCamp](https://www.youtube.com/watch?v=F9UC9DY-vIU)
+-[edureka](https://www.youtube.com/watch?v=OMxeOiPwAcQ)
+
+### Books
+
+Download these e-books from [here](https://drive.google.com/drive/folders/16FDR2fkwMMuDbisMS_LHZlnNr3g4nPzQ?usp=sharing)
+
+### Courses for Kotlin
+
+-[Coursera](https://www.coursera.org/learn/kotlin-for-java-developers)
+-[Udemy](https://www.udemy.com/course/web-development-with-kotlin)
+
+
 ## 2. Angular - :
 
 - [A better way to learn Angular](https://thinkster.io/a-better-way-to-learn-angularjs)
@@ -313,3 +336,6 @@ Design Inspirations
 - [Youtube](https://youtu.be/apGV9Kg7ics) - Kunal Kushwaha
 - [Github Learning Lab](https://lab.github.com/)
 - [Udemy course](https://www.udemy.com/course/git-started-with-github/) - Get started with Git
+
+
+
