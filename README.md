@@ -74,24 +74,24 @@ Download these e-books from [here](https://drive.google.com/drive/folders/16FDR2
 - [DevProjects - Free Real-World Angular Projects](https://www.codementor.io/projects/angular)
 
 
-### MySQL -:
+## MySQL -:
 
 -[MySQL](https://dev.mysql.com/doc/)
 -[devart](https://blog.devart.com/dbforge-documenter-for-mysql-10.html)
 -[comparitech](https://www.comparitech.com/net-admin/best-database-documentation-tools/)
 
-## YouTube Channels 
+### YouTube Channels 
 
 -[Programming with Mosh](https://www.youtube.com/watch?v=7S_tz1z_5bA)
 -[ProgrammingKnowledge](https://www.youtube.com/watch?v=o-BgRjxNf2Q) - Crash Course
 -[FreeCodeCamp](https://www.youtube.com/watch?v=ER8oKX5myE0)
 -[Intellipaat](https://www.youtube.com/watch?v=g6w7KtbncxE)
 
-## Books
+### Books
 
 Download e-books from [here](https://drive.google.com/drive/folders/1DM-TukwgEUmkOCM3kDwMuu4iUl5kKrUQ?usp=sharing)
 
-## Courses 
+### Courses 
 
 -[Coursesity](https://coursesity.com/course-detail/learn-online-mysql--database-design-tutorials-for-beginners)
 -[Coursesity](https://coursesity.com/course-detail/sql-training)
