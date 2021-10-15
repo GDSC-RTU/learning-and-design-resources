@@ -391,4 +391,21 @@ Design Inspirations
 - [Udemy course](https://www.udemy.com/course/git-started-with-github/) - Get started with Git
 
 
+#  Laravel -:
 
+### Documentation
+- [Tutorials Point](https://www.tutorialspoint.com/laravel/laravel_overview.htm)
+- [w3schools](https://www.w3schools.in/laravel-tutorial/)
+- [Laravel Docs](https://laravel.com/docs/4.2/introduction)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/laravel/)
+
+
+### Youtube Videos
+- [Laravel PHP Framework Tutorial - Full Course for Beginners ](https://www.youtube.com/watch?v=ImtZ5yENzgE&ab_channel=freeCodeCamp.org) By FreeCodeCamp
+- [Laravel Beginner tutorial - Importance of Learning Laravel](https://www.youtube.com/watch?v=1onmPIe07yo&ab_channel=Bitfumes) By Bitfumes
+- [Laravel Crash Course](https://www.youtube.com/watch?v=MFh0Fd7BsjE&ab_channel=TraversyMedia) By Traversy Media
+- 
+### Books
+- Laravel: Up & Running by Matt Stauffer
+- Laravel Testing Decoded by Jeffrey Wa
+- Laravel 5 Essentials by Martin Bean
