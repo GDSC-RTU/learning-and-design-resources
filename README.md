@@ -364,7 +364,7 @@ Design Inspirations
 - [Udemy course](https://www.udemy.com/course/git-started-with-github/) - Get started with Git
 
 
-#  Laravel
+#  Laravel -:
 
 ### Documentation
 - [Tutorials Point](https://www.tutorialspoint.com/laravel/laravel_overview.htm)
