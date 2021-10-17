@@ -391,7 +391,7 @@ Design Inspirations
 - [Udemy course](https://www.udemy.com/course/git-started-with-github/) - Get started with Git
 
 
-#  Laravel -:
+## Laravel -:
 
 ### Documentation
 - [Tutorials Point](https://www.tutorialspoint.com/laravel/laravel_overview.htm)
@@ -409,3 +409,54 @@ Design Inspirations
 - Laravel: Up & Running by Matt Stauffer
 - Laravel Testing Decoded by Jeffrey Wa
 - Laravel 5 Essentials by Martin Bean
+
+
+## **DOCKER -:**
+
+### DOCUMENTATION
+- [Docker Docs](https://docs.docker.com/get-started/resources/)
+- [Docker for Beginners](https://docker-curriculum.com/)
+- [Tutorials Point](https://www.tutorialspoint.com/docker/index.htm)
+- [Getting started with Docker](https://serversforhackers.com/c/getting-started-with-docker)
+
+### VIDEO TUTORIAL + HANDS ON COURSES
+- [Docker Essentials](https://www.udemy.com/course/docker-essentials/)(UDEMY FREE/PAID)
+- [Docker for absolute beginners-Hands on-DevOps](https://www.udemy.com/course/learn-docker/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-v5emDEeCRO5aZbhVbk1ZXw&utm_medium=udemyads&utm_source=aff-campaign)
+
+- [Docker in Development](https://serversforhackers.com/s/docker-in-development) (FREE)
+
+- [Docker for beginners ](https://www.udemy.com/course/docker-for-beginners/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DSA_Catchall_la.EN_cc.INDIA&utm_content=deal4584&utm_term=_._ag_82569850245_._ad_398023114490_._kw__._de_c_._dm__._pl__._ti_dsa-406594358574_._li_9062010_._pd__._&matchtype=b&gclid=EAIaIQobChMIuJ-437XU6AIVhZOPCh3AwQgLEAAYASAAEgJhjPD_BwE)(UDEMY)
+
+- [Containers 101](https://www.udemy.com/course/containers-101/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-bGKhHG5ULnBJAIjlzwUmXg) (UDEMY FREE)
+- [Hands on Docker for JAVA Dvelopers](https://www.udemy.com/course/introduction-to-docker-for-java-developers/) (UDEMY FREE/PAID)
+
+- [Bret Fisher](https://www.bretfisher.com/courses/): Docker Mastery, Docker Swarm Mastery, Docker Mastery for Node.js Projects  
+  
+- [Elton Stoneman](https://www.udemy.com/course/docker4dotnet/): Docker for .NET Apps - on Linux and Windows. Includes the discount code 644ABCBC33F474541885.     
+- [Arun Gupta](https://www.linkedin.com/learning/docker-for-java-developers): Docker for Java Developers  
+- [Ajeet Singh Raina](https://collabnix.com/): Docker and Kubernetes Labs  
+- [Docker deep dive](https://www.pluralsight.com/courses/docker-deep-dive-update?clickid=zOZx7LxHNxyIT2WUa20kMRKaUkBSRg02F261VA0&irgwc=1&mpid=1193463&aid=7010a000001xAKZAA2&utm_medium=digital_affiliate&utm_campaign=1193463&utm_source=impactradius)
+
+- [Docker crash course for busy Developers and DevOps](https://www.udemy.com/course/docker-tutorial-for-devops-run-docker-containers/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-ir_pil5mmvguc.FbJVFSYg&utm_medium=udemyads&utm_source=aff-campaign) (UDEMY PAID)
+
+- [Docker and Kubernetes : The complete Guide](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-f3Gtrdn8_krtoE8uLTPBUw&utm_medium=udemyads&utm_source=aff-campaign)(UDEMY PAID)
+
+### YOUTUBE TUTORIALS
+- [FreeCodeCamp](https://www.youtube.com/watch?v=fqMOX6JJhGo)
+- [TechWorld with Nana](https://www.youtube.com/watch?v=3c-iBn73dDE)
+- [FireShip](https://www.youtube.com/watch?v=gAkwW2tuIqE)
+- [Programming with Mosh](https://www.youtube.com/watch?v=pTFZFxd4hOI)
+- [KodeKloud](https://www.youtube.com/watch?v=zJ6WbK9zFpI)
+- [Automation Step by Step](https://www.youtube.com/watch?v=wi-MGFhrad0)
+- [Eudreka](https://www.youtube.com/watch?v=RSIstPUiEjY)
+- [CodingEntrepreneurs](https://www.youtube.com/watch?v=7S73WERRqO4)
+- [Jake Wright](https://www.youtube.com/watch?v=YFl2mCHdv24)
+- [Docker](https://www.youtube.com/watch?v=iqqDU2crIEQ)
+
+### BOOKS
+- [Learn Docker in a Month of Lunches](https://www.manning.com/books/learn-docker-in-a-month-of-lunches), Elton Stoneman. Use the code stonemanpc for a 40% discount.
+- [Docker on Windows](https://www.amazon.com/Docker-Windows-Elton-Stoneman-ebook/dp/B0711Y4J9K/): From 101 to Production with Docker on Windows, Elton Stoneman
+- [Docker in Action](https://www.manning.com/books/docker-in-action-second-edition) 2nd Edition Jeff Nickoloff, Oct 2019
+- [Docker Deep Dive](https://www.amazon.com/Docker-Deep-Dive-Nigel-Poulton/dp/1521822808/ref=sr_1_1?ie=UTF8&qid=1509660871&sr=8-1&keywords=nigel+poulton) Nigel Poulton, March 2018
+
+
