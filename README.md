@@ -43,7 +43,7 @@
 
 ### Kotlin - :
 
-### Documantation
+### Documentation
 -[Kotlin docs](https://kotlinlang.org/docs/home.html)
 -[programiz](https://www.programiz.com/kotlin-programming)
 -[beginnersbook](https://beginnersbook.com/2017/12/kotlin-tutorial/)
@@ -80,7 +80,7 @@ Download these e-books from [here](https://drive.google.com/drive/folders/16FDR2
 -[devart](https://blog.devart.com/dbforge-documenter-for-mysql-10.html)
 -[comparitech](https://www.comparitech.com/net-admin/best-database-documentation-tools/)
 
-### YouTube Channels 
+### YouTube Channels
 
 -[Programming with Mosh](https://www.youtube.com/watch?v=7S_tz1z_5bA)
 -[ProgrammingKnowledge](https://www.youtube.com/watch?v=o-BgRjxNf2Q) - Crash Course
@@ -91,7 +91,7 @@ Download these e-books from [here](https://drive.google.com/drive/folders/16FDR2
 
 Download e-books from [here](https://drive.google.com/drive/folders/1DM-TukwgEUmkOCM3kDwMuu4iUl5kKrUQ?usp=sharing)
 
-### Courses 
+### Courses
 
 -[Coursesity](https://coursesity.com/course-detail/learn-online-mysql--database-design-tutorials-for-beginners)
 -[Coursesity](https://coursesity.com/course-detail/sql-training)
@@ -242,7 +242,7 @@ Build a better app and leave the operations to us. Save crucial development time
 
 
 ## 10. Python -:
-- [Python Documantation](https://www.python.org/) 
+- [Python Documentation](https://www.python.org/)
 - [W3schools](https://www.w3schools.com/python/) - Coding tutorials.
 - [GeeksforGeeks](https://www.geeksforgeeks.org/python-programming-language/)
 
@@ -250,7 +250,7 @@ Build a better app and leave the operations to us. Save crucial development time
 
 -[Freecodecamp](https://www.youtube.com/watch?v=rfscVS0vtbw&t=3033s) Freecodecamp Crash Course
 -[Telusko](https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3) Python Tutorial for beginners
--[Programming with Mosh](https://www.youtube.com/watch?v=_uQrJ0TkZlc&list=PLTjRvDozrdlxj5wgH4qkvwSOdHLOCx10f) Python Tutorial 
+-[Programming with Mosh](https://www.youtube.com/watch?v=_uQrJ0TkZlc&list=PLTjRvDozrdlxj5wgH4qkvwSOdHLOCx10f) Python Tutorial
 
 ### Courses
 Free courses for Python
@@ -265,7 +265,7 @@ Free courses for Python
 -[freecodecamp](https://www.freecodecamp.org/news/the-python-handbook/) - A good start for a beginner
 
  Download these e-books from [here](https://drive.google.com/drive/folders/1zp4AXiY-lf4rz1qNm7jCas1MN4hTGEyU)
- 
+
 ### Practice Platform
 -[CodeChef](https://www.codechef.com/)
 -[Hackerrank](https://www.hackerrank.com/)
@@ -283,7 +283,7 @@ Free courses for Python
 
 Free courses to get hands-on experience in Nodejs
 - [Intro to NodeJS](https://www.greatlearning.in/academy/learn-for-free/courses/intro-to-nodejs)  By GreatLearning
-- [Course By IBM](https://developer.ibm.com/articles/learn-node-unit-1-overview-nodejs-learning-path/) 
+- [Course By IBM](https://developer.ibm.com/articles/learn-node-unit-1-overview-nodejs-learning-path/)
 - [JavaScript and DOM](https://www.udacity.com/course/javascript-and-the-dom--ud117) By Udacity
 - [Learn to create backend app](https://www.udemy.com/course/free-create-a-node-js-backend-app-and-host-it-on-aws/) by Udemy
 
@@ -294,13 +294,13 @@ Free courses to get hands-on experience in Nodejs
 
 ### Books
 
--  [Node Cookbook](https://amzn.to/3Bos1bc) -For server site web development with nodejs 
+-  [Node Cookbook](https://amzn.to/3Bos1bc) -For server site web development with nodejs
 - [NodeJs Design Patterns](https://amzn.to/3lj43Z5) -Design and implement production-grade Node.js
 applications using proven patterns and techniques
 - [Nodejs WebDevelopment](https://amzn.to/3uRtF2h) -Server-side web development made easy with Node 14
 using practical examples
 - [Beginning NodeJs](https://amzn.to/2ZTCnBN) -A good start for a beginner
- 
+
  Download these e-books from [here](https://drive.google.com/drive/folders/1FOf1-f4L4oPyHQqsYis07ju7aM40bUyM?usp=sharing)
 
 ## ReactJs -:
@@ -363,19 +363,21 @@ Experiment with CSS code on [codepen.io](https://codepen.io/)
 
 ### Some Websites to help in Designing
 - [Curated colour palettes on colorhunt.co](https://colorhunt.co/)
+- [CSS-Tricks](https://css-tricks.com) daily articles about CSS, HTML, JavaScript, and all things related to web design and development
 - [Create a Favicon with favicon.cc](https://www.favicon.cc/)
 - [Google Fonts](https://fonts.google.com/) to get different font styles for your website
 - [UI Patterns](http://ui-patterns.com/patterns) for different design patterns for your website
 Vectors, Stickers and Gifs for your websites
+- [Boxicon](https://boxicons.com/) High quality web icons
 - [Flaticon](https://www.flaticon.com/)
-- [Giphy](https://giphy.com/)
+- [Feather](https://feathericons.com/) Simply beautiful open source icons
 - [Font Awesome](https://fontawesome.com/)
+- [Giphy](https://giphy.com/)
+- [Heroicons](https://heroicons.dev)
 Design Inspirations
-- [Dribbble](https://dribbble.com/search/website)
 - [Awwwards](https://www.awwwards.com/websites/com/)
 - [Collect UI](https://collectui.com/)
-- [Boxicon](https://boxicons.com/) High quality web icons
-- [Feather](https://feathericons.com/) Simply beautiful open source icons
+- [Dribbble](https://dribbble.com/search/website)
 
 ### Practice Challanges
 - [Frontend Mentor](https://www.frontendmentor.io/challenges)
@@ -404,7 +406,7 @@ Design Inspirations
 - [Laravel PHP Framework Tutorial - Full Course for Beginners ](https://www.youtube.com/watch?v=ImtZ5yENzgE&ab_channel=freeCodeCamp.org) By FreeCodeCamp
 - [Laravel Beginner tutorial - Importance of Learning Laravel](https://www.youtube.com/watch?v=1onmPIe07yo&ab_channel=Bitfumes) By Bitfumes
 - [Laravel Crash Course](https://www.youtube.com/watch?v=MFh0Fd7BsjE&ab_channel=TraversyMedia) By Traversy Media
-- 
+-
 ### Books
 - Laravel: Up & Running by Matt Stauffer
 - Laravel Testing Decoded by Jeffrey Wa
