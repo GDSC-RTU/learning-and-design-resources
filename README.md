@@ -199,6 +199,8 @@ Build a better app and leave the operations to us. Save crucial development time
 - [Flutter Weekly](https://flutterweekly.news)
 - [Flutter & Dart Packages](https://pub.dev/)
 - [Flutter CodePen](https://codepen.io/flutter)
+- [Flutter Documentation](https://flutter.dev/docs)
+- [Flutter Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ) 
 
 ## 7. Java - :
 
