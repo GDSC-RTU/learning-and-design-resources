@@ -463,4 +463,38 @@ Design Inspirations
 - [Docker in Action](https://www.manning.com/books/docker-in-action-second-edition) 2nd Edition Jeff Nickoloff, Oct 2019
 - [Docker Deep Dive](https://www.amazon.com/Docker-Deep-Dive-Nigel-Poulton/dp/1521822808/ref=sr_1_1?ie=UTF8&qid=1509660871&sr=8-1&keywords=nigel+poulton) Nigel Poulton, March 2018
 
+## MongoDB
+- [Documentation](https://docs.mongodb.com/manual/tutorial/)
 
+### Blogs and Websites
+- [Official: Blog | MongoDB](https://www.mongodb.com/blog)
+- [MongoDB tutorial](https://beginnersbook.com/2017/09/mongodb-tutorial/) - BeginnersBook
+- [What is MongoDB - Introduction to MongoDB Architecture & Features](https://intellipaat.com/blog/what-is-mongodb/)
+- [Getting Started with MongoDB](https://code.tutsplus.com/tutorials/getting-started-with-mongodb-part-1--net-22879)
+- [MongoDB Tutorial Archives](https://www.tutorialsjar.com/category/mongodb-tutorial/) - TutorialsJar
+- [John Papa: MongoDB ](https://johnpapa.net/tag/mongodb-ref/)
+
+### Tutorial Videos
+- [Learn MongoDB with Studio 3T](https://studio3t.com/academy/)
+- [MongoDB Overview: Getting Started with MongoDB – BMC Blogs](https://www.bmc.com/blogs/mongodb-overview-getting-started-with-mongodb/)
+- [MongoDB Courses by Envato Tuts+](https://code.tutsplus.com/courses/learning-mongodb)
+
+### Youtube tutorials
+- [MongoDB Beginners Tutorials](https://www.youtube.com/playlist?list=PLqmh7e11V6Owl7a-IrLa0cDq7BHHNhtOp)
+- [MongoDB Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jpvoYriLI0bY8DOgWZfi6u) - The Net Ninja
+- [MongoDB Online Training](https://www.youtube.com/playlist?list=PLWPirh4EWFpG2gpAkHVocvvzIWNGet2BF) - Tutorials' Point
+- [MongoDB - NoSQL databse](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOFJ9JcVW9u4PlSWO-VFoao) - 
+
+### Cheatsheets for reference
+- [MongoDB CheatSheet V1](https://blog.codecentric.de/files/2012/12/MongoDB-CheatSheet-v1_0.pdf)
+- [Commands Cheat Sheet for Beginners - Reskilling IT](https://vitalflux.com/mongodb-commands-cheat-sheet-beginners/)
+- [Performance Tuning Cheat Sheet MongoDB](https://www.slideshare.net/Severalnines/performance-tuning-cheat-sheet-for-mongodb)
+
+### Books
+- [Learning MongoDB]()
+- [MongoDB in Acton](https://amzn.to/3aSFmwu)
+- [MongoDB: The Definitive Guide](https://amzn.to/3DUjLQU)
+- [Introduction to NoSQL and mongoDB](https://amzn.to/3BZY9Ce)
+- [Web Development with mongoDB and Nodejs](https://amzn.to/2Z3D37t)
+- [The Little MongoDB Book](https://www.openmymind.net/mongodb.pdf)
+#### download ebook from [here](https://drive.google.com/drive/folders/14of8fE3fVqlsMcJOYaDVdSJdnyVD0J-f?usp=sharing)
