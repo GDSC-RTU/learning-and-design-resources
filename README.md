@@ -500,7 +500,7 @@ Design Inspirations
 #### download ebook from [here](https://drive.google.com/drive/folders/14of8fE3fVqlsMcJOYaDVdSJdnyVD0J-f?usp=sharing)
 
 
-## Golang:-
+## Golang -:
 
 ### Documentation
 - [The Go Programming Language - Golang](https://golang.org/doc/)
