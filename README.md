@@ -498,3 +498,35 @@ Design Inspirations
 - [Web Development with mongoDB and Nodejs](https://amzn.to/2Z3D37t)
 - [The Little MongoDB Book](https://www.openmymind.net/mongodb.pdf)
 #### download ebook from [here](https://drive.google.com/drive/folders/14of8fE3fVqlsMcJOYaDVdSJdnyVD0J-f?usp=sharing)
+
+
+## **Golang - **
+
+### Documentation
+- [The Go Programming Language - Golang](https://golang.org/doc/)
+- [Go documentation - DevDocs](https://devdocs.io/go/)
+- [GoLang Docs - GoLang Tutorials](https://golangdocs.com/)
+- [Go with Visual Studio Code](https://code.visualstudio.com/docs/languages/go)
+
+### Courses
+- [Getting Started with Go](https://www.coursera.org/learn/golang-getting-started)(coursera)
+- [Go: The Complete Developer’s Guide (Golang)](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fgo-the-complete-developers-guide%2F) (Udemy)
+- [ Master Go (Golang) Programming ](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fmaster-go-programming-complete-golang-bootcamp%2F) (Udemy)
+- [Go Fundamentals By Nigel Poulton](https://pluralsight.pxf.io/c/1193463/424552/7490?u=https%3A%2F%2Fwww.pluralsight.com%2Fcourses%2Fgo-fundamentals) (Pluralsight)
+- [ Learn Go on Codecademy](https://www.gopjn.com/t/TUJGR0lLR0JHRklJSkhCR0ZISk1N?url=https%3A%2F%2Fwww.codecademy.com%2Flearn%2Flearn-go) (Codeacademy)
+
+### YouTube Tutorials
+- [Learn Golang in 7 hours ](https://www.youtube.com/watch?v=YS4e4q9oBaU) (FreeCodecamp)
+- [Go / Golang Crash Course ](https://www.youtube.com/watch?v=SqrbIlUwR0U) (Taversy Media)
+- [Go Tutorial (GoLang) for Beginners](https://www.youtube.com/watch?v=etSN4X_fCnM&list=PL4cUxeGkcC9gC88BEo9czgyS72A3doDeM) (The Net Ninja)
+- [Go Tutorial](https://www.youtube.com/watch?v=wJjirJlCDh8) (ProgRank)
+- [Golang Tutorials](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q) (Tech With Tim)
+- [Go Programming Language Tutorial](https://www.youtube.com/watch?v=3iuoQkQOx2w&list=PLS1QulWo1RIaRoN4vQQCYHWDuubEU8Vij)
+
+### E-books
+- [An Introduction to Programming in Go](https://www.topfreebooks.org/an-introduction-to-programming-in-go/)
+- [Learning Go](https://miek.nl/go/)
+- [Let’s learn Go!](http://go-book.readthedocs.io/en/latest/)
+- [The Go Tutorial](http://tour.golang.org/)
+- [Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/)
+- [Building Web Apps with Go](https://www.topfreebooks.org/building-web-apps-with-go/)
