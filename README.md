@@ -530,3 +530,30 @@ Design Inspirations
 - [The Go Tutorial](http://tour.golang.org/)
 - [Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/)
 - [Building Web Apps with Go](https://www.topfreebooks.org/building-web-apps-with-go/)
+
+## VueJs-:
+
+### Documentation
+- [Introduction - Vue.js](https://vuejs.org/v2/guide/)
+- [Vue.js documentation - DevDocs](https://devdocs.io/vue~1/)
+- [What is Vue.js?](https://www.w3schools.com/whatis/whatis_vue.asp)
+- [VueJS Tutorial - Tutorialspoint](https://www.tutorialspoint.com/vuejs/index.htm)
+- [Using Vue in Visual Studio Code](https://code.visualstudio.com/docs/nodejs/vuejs-tutorial)
+
+### Courses
+- [Learn Vue.js ](https://www.codecademy.com/learn/learn-vue-js) (Codeacademy)
+- [Vue.Js Courses](https://www.udemy.com/topic/vue-js/free/) (Udemy)
+- [Intro to Vuejs](https://click.linksynergy.com/deeplink?id=JVFxdTr9V80&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fthecompletevuejscourse%2F)(Udemy)
+- [Vue JS Course](https://coursesity.com/free-tutorials-learn/vue-js)
+- [Learn Vue.js by freecodecamp](https://www.freecodecamp.org/news/learn-vue-js-in-our-free-course-85d5df41e47f/)(freeCodeCamp)
+
+### YouTube Tutorials
+- [Vue JS Course 2021](https://www.youtube.com/watch?v=qZXt1Aom3Cs)- Traversy Media
+- [Learn Vue.js](https://www.youtube.com/watch?v=4deVCNJq3qc)- freeCodeCamp
+
+### Books
+- [Getting to Know Vue.js](https://amzn.to/2IJHv3n) by Brett Nelson
+- [Fullstack Vue](https://amzn.to/3gJeC3D) by Hassan Djirdeh
+- [Vue.js 2.x by Example](https://amzn.to/37be2Zy) by Mike Street
+- [Vue.js: Up and Running: Building Accessible and Performant Web Apps](https://amzn.to/2IP6XVe) by Callum Macrae
+- [Vue.js Book](https://vuejsbook.com/)
