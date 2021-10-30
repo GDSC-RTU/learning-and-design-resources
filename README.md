@@ -396,6 +396,7 @@ Design Inspirations
 - [Youtube](https://youtu.be/apGV9Kg7ics) - Kunal Kushwaha
 - [Github Learning Lab](https://lab.github.com/)
 - [Udemy course](https://www.udemy.com/course/git-started-with-github/) - Get started with Git
+- [Udacity Course](https://classroom.udacity.com/courses/ud123) - Version Control with Git
 
 
 ## Laravel -:
