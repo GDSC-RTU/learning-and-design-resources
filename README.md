@@ -33,6 +33,7 @@
 - [NodeSchool](https://nodeschool.io/pt-br/)
 - [MongoDB University](https://university.mongodb.com/courses/catalog)
 - [30 Days Coding](https://www.30dayscoding.com/)
+- [Udacity](https://www.udacity.com/)
 
 ## 1. Android - :
 - [What is Android](https://www.android.com/what-is-android/)
@@ -142,6 +143,7 @@ John Papa | https://johnpapa.net/ |
  - [A Post of Sorts](https://medium.com/@assertchris/a-post-of-sorts-879dd047f3ee)
  - [10 Algorithms every CS student must implement - Quora](https://www.quora.com/Which-are-the-10-algorithms-every-computer-science-student-must-implement-at-least-once-in-life)
  - [Datastructure really needed to be known](https://towardsdatascience.com/top-algorithms-and-data-structures-you-really-need-to-know-ab9a2a91c7b5)
+ - [Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
 
 ### Online Courses
 
