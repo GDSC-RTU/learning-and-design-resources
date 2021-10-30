@@ -41,6 +41,7 @@
 - [Android Open Source Project](https://source.android.com/)
 - [Getting Started and be an Android Developer](https://developer.android.com/guide/slices/getting-started)
 - [Introduction](https://developer.android.com/guide)
+- [Developing Android Apps](https://classroom.udacity.com/courses/ud851)
 
 ### Kotlin - :
 
