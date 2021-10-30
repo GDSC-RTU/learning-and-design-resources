@@ -183,7 +183,7 @@ Build a better app and leave the operations to us. Save crucial development time
 - [Authentication](https://firebase.google.com/docs/auth/) - Firebase Authentication provides backend services, easy-to-use SDKs, and ready-made UI libraries to authenticate users to your app. It supports authentication using passwords, popular federated identity providers like Google, Facebook and Twitter, and more.
 
 - [Realtime Database](https://firebase.google.com/docs/database/) - The Firebase Realtime Database is a cloud-hosted database. Data is stored as JSON and synchronized in realtime to every connected client. When you build cross-platform apps with our iOS, Android, and JavaScript SDKs, all of your clients share one Realtime Database instance and automatically receive updates with the newest data.
-
+-[Cloud Firestore](https://firebase.google.com/docs/firestore/) -Cloud Firestore is a NoSQL document database that lets you easily store, sync, and query data for your mobile and web apps - at global scale.
 - [Storage](https://firebase.google.com/docs/storage/) - Firebase Storage is built for app developers who need to store and serve user-generated content, such as photos or videos.
 
 - [Hosting](https://firebase.google.com/docs/hosting/) - Firebase Hosting provides fast and secure static hosting for your web app.
