@@ -142,6 +142,7 @@ John Papa | https://johnpapa.net/ |
  - [A Post of Sorts](https://medium.com/@assertchris/a-post-of-sorts-879dd047f3ee)
  - [10 Algorithms every CS student must implement - Quora](https://www.quora.com/Which-are-the-10-algorithms-every-computer-science-student-must-implement-at-least-once-in-life)
  - [Datastructure really needed to be known](https://towardsdatascience.com/top-algorithms-and-data-structures-you-really-need-to-know-ab9a2a91c7b5)
+ - [CP-Handbook](https://cses.fi/book/book.pdf)
 
 ### Online Courses
 
