@@ -557,3 +557,22 @@ Design Inspirations
 - [Vue.js 2.x by Example](https://amzn.to/37be2Zy) by Mike Street
 - [Vue.js: Up and Running: Building Accessible and Performant Web Apps](https://amzn.to/2IP6XVe) by Callum Macrae
 - [Vue.js Book](https://vuejsbook.com/)
+
+
+## GraphQL -:
+- [GraphQL Documantation](https://graphql.org/learn/)
+- [skylerlemay](https://www.skylerlemay.com/graphql) - GraphQL Resources.
+- [greenhouse](https://support.greenhouse.io/hc/en-us/articles/360003615472-GraphQL-resources)
+- [moesif](https://www.moesif.com/blog/api-guide/graphql-best-practices-resources-and-design-patterns/)
+
+### Youtube Channels
+
+-[yoursTRULY](https://www.youtube.com/watch?v=dJjP0SbdIt0&ab_channel=yoursTRULY) 
+-[Freecodecamp](https://www.youtube.com/watch?v=ed8SzALpx1Q&ab_channel=freeCodeCamp.org) 
+-[The Dumbfounds](https://www.youtube.com/watch?v=omSpI1Nu_pg&ab_channel=TheDumbfounds) 
+
+### Courses
+Free courses for GraphQL
+- [coursesity](https://coursesity.com/free-tutorials-learn/graphql)
+
+
