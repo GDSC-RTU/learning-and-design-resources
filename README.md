@@ -577,3 +577,28 @@ Free courses for GraphQL
 - [coursesity](https://coursesity.com/free-tutorials-learn/graphql)
 
 
+## Django -:
+
+- [Django Documentation](https://docs.djangoproject.com/en/4.1/)
+
+### Courses
+
+Free courses to get hands-on experience in Django
+- [A Beginners Guide to Django!](https://www.udemy.com/course/introdjango/) By Udemy
+- [Try Django 2.2 - Web Development with Python 3.6+](https://www.udemy.com/course/try-django-2-2-python-web-development/) By Udemy
+- [Learn Django 3 and Start Creating Websites With Python](https://www.freecodecamp.org/news/learn-django-3-and-start-creating-websites-with-python/) By FreeCodeCamp
+- [Python Django Web Framework - Full Course for Beginners](https://www.freecodecamp.org/news/python-django-course/) By FreeCodeCamp
+- [Django for Everybody Specialization](https://www.coursera.org/specializations/django) By Coursera
+
+### Youtube Tutorial
+
+- [Programming with Mosh](https://www.youtube.com/watch?v=rHux0gMZ3Eg&ab_channel=ProgrammingwithMosh)
+- [freeCodeCamp](https://www.youtube.com/watch?v=F5mRW0jo-U4&ab_channel=freeCodeCamp.org)
+- [Telusko](https://www.youtube.com/watch?v=OTmQOjsl0eg&ab_channel=Telusko)
+- [Tech With Tim](https://www.youtube.com/watch?v=sm1mokevMWk&ab_channel=TechWithTim)
+
+### Books
+- [Python Web Development with Django](https://www.amazon.in/Python-Development-Django-Developers-Library/dp/0132356139) by Jeff Forcier
+- [Django: Web Development with Python](https://www.flipkart.com/django-web-development-python/p/itmergxhfk9gffpj) by Dauzon Samuel
+
+
