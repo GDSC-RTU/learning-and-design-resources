@@ -601,4 +601,27 @@ Free courses to get hands-on experience in Django
 - [Python Web Development with Django](https://www.amazon.in/Python-Development-Django-Developers-Library/dp/0132356139) by Jeff Forcier
 - [Django: Web Development with Python](https://www.flipkart.com/django-web-development-python/p/itmergxhfk9gffpj) by Dauzon Samuel
 
+## R-:
 
+- [R](https://www.r-project.org/about.html)
+- [Storybench](https://www.storybench.org/how-to-explore-correlations-in-r/)
+- [R-bloggers](https://www.r-bloggers.com/2020/01/15-resources-to-get-started-with-r/)
+- [Medium](https://levelup.gitconnected.com/the-best-resources-for-r-and-rstudio-b57dd306845f)
+
+### Courses
+
+Courses to get hands-on experience in R
+- [codecademy](https://www.codecademy.com/learn/learn-r) 
+- [StoryBench](https://storybench.com/) 
+- [Coursera](https://www.coursera.org/specializations/data-science-foundations-r?irclickid=TM0SMDwudxyNTrOyfn3gXynkUkDQJk3rCX7DRE0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=27795&utm_content=b2c) 
+
+### Youtube Tutorial
+
+- [Freecodecamp](https://www.youtube.com/watch?v=_V8eKsto3Ug&ab_channel=freeCodeCamp.org)
+- [Simplilearn](https://www.youtube.com/watch?v=Q5g6lYUn6Q4&ab_channel=Simplilearn)
+- [R Programming 101](https://www.youtube.com/watch?v=9kYUGMg_14s&ab_channel=RProgramming101)
+
+### Books
+- [R for Data Science](https://r4ds.had.co.nz/) 
+- [Hands-On Programming with R](https://rstudio-education.github.io/hopr/) 
+- [R Programming for Data Science](https://leanpub.com/rprogramming)
