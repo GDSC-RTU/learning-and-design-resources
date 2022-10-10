@@ -13,6 +13,7 @@
 - [Salesforce](https://trailhead.salesforce.com)
 - [MIT Edu](https://ocw.mit.edu)
 - [App academy](https://open.appacademy.io)
+- [W3 Schools](https://www.w3schools.com/)
 - [Google's Web Dev](https://web.dev)
 - [Coursera](https://coursera.org)
 - [EdX](https://edx.org)
