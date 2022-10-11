@@ -1,4 +1,4 @@
-<h1 style="text-align: center">Curated List of Learning and Design Resources </h1>
+﻿<h1 style="text-align: center">Curated List of Learning and Design Resources </h1>
 
 <img src="https://image.flaticon.com/icons/png/128/2621/2621230.png" height="60px">
 
@@ -625,3 +625,34 @@ Courses to get hands-on experience in R
 - [R for Data Science](https://r4ds.had.co.nz/) 
 - [Hands-On Programming with R](https://rstudio-education.github.io/hopr/) 
 - [R Programming for Data Science](https://leanpub.com/rprogramming)
+
+## DATA SCIENCE-:
+
+- [Wordpress](https://learnanalyticshere.wordpress.com/category/data-science/)
+- [Data Blogger](https://www.data-blogger.com/)
+- [Medium](https://medium.com/analytics-vidhya/introduction-to-data-science-28deb32878e7)
+- [Interview Bit](https://www.interviewbit.com/blog/data-science-projects/)
+
+### Courses
+
+- [Coursera](https://www.coursera.org/professional-certificates/ibm-data-science) 
+- [Udemy](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/) 
+- [Simplilearn](https://www.simplilearn.com/big-data-and-analytics/senior-data-scientist-masters-program-training) 
+- [Scaler](https://www.scaler.com/data-science-course/) 
+
+### Youtube Tutorial
+
+- [Freecodecamp](https://www.youtube.com/playlist?list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1)
+- [Simplilearn](https://www.youtube.com/playlist?list=PLEiEAq2VkUUIEQ7ENKU5Gv0HpRDtOphC6)
+- [Edureka](https://www.youtube.com/playlist?list=PL9ooVrP1hQOGR57Y4g1LFhn1JXVgn1lkX)
+- [StatQuest with Josh Starmer](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
+
+### Books
+- [Practical Statistics for Data Scientists](https://github.com/ghoshark/E_Books/blob/master/Practical%20Statistics%20for%20Data%20Scientists.pdf) 
+- [Big Data: A revolution that will transform how we Live, Work, and Think](https://www.pdfdrive.com/big-data-a-revolution-that-will-transform-how-we-live-work-and-think-e156885114.html) 
+- [Data Science for Economics and Finance](https://library.oapen.org/handle/20.500.12657/49505)
+
+### Documentaries
+- [Margin Call](https://en.wikipedia.org/wiki/Margin_Call) 
+- [The Imitation Game](https://en.wikipedia.org/wiki/The_Imitation_Game) 
+- [Behind the Curve](https://en.wikipedia.org/wiki/Behind_the_Curve)
