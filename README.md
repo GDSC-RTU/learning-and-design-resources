@@ -675,3 +675,8 @@ Free courses to get hands-on experience in Javascript
 ### Books
 - [Javascript the definitive guide]( https://www.flipkart.com/javascript-definitive-guide-master-world-s-most-used-programming-language-7th-greyscale-indian-edition-paperback-david-flanagan/p/itm233ae3c0ee959?pid=9789352139965&lid=LSTBOK97893521399651ZTYOF&marketplace=FLIPKART&q=JAVASCRIPT+BOOKS&store=bks&srno=s_1_12&otracker=search&otracker1=search&fm=organic&iid=3240155b-af1c-4e8e-b878-0f19f408651d.9789352139965.SEARCH&ppt=hp&ppn=homepage&ssid=s25obsv4jk0000001665421923517&qH=547a642192687c89) by David Flanagan
 - [Coding with Javascript](https://www.flipkart.com/coding-javascript-dummies/p/itmetjk8j9uzc38j?pid=9788126556663&lid=LSTBOK9788126556663F4W0K4&marketplace=FLIPKART&q=JAVASCRIPT+BOOKS&store=bks&srno=s_1_1&otracker=search&otracker1=search&fm=organic&iid=3240155b-af1c-4e8e-b878-0f19f408651d.9788126556663.SEARCH&ppt=hp&ppn=homepage&ssid=s25obsv4jk0000001665421923517&qH=547a642192687c89) by Chris Minnick
+
+### learning platform
+- [javatpoint](https://www.javatpoint.com/javascript-tutorial)
+- [W3Schools](https://www.w3schools.com/js/)
+- [Codeacademy](https://www.codecademy.com/courses/introduction-to-javascript/informationals/learn-javascript-welcome)
