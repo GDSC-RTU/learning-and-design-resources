@@ -486,11 +486,7 @@ Design Inspirations
 - [MongoDB Online Training](https://www.youtube.com/playlist?list=PLWPirh4EWFpG2gpAkHVocvvzIWNGet2BF) - Tutorials' Point
 - [MongoDB - NoSQL databse](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOFJ9JcVW9u4PlSWO-VFoao) - 
 
-### Cheatsheets for reference
-- [MongoDB CheatSheet V1](https://blog.codecentric.de/files/2012/12/MongoDB-CheatSheet-v1_0.pdf)
-- [Commands Cheat Sheet for Beginners - Reskilling IT](https://vitalflux.com/mongodb-commands-cheat-sheet-beginners/)
-- [Performance Tuning Cheat Sheet MongoDB](https://www.slideshare.net/Severalnines/performance-tuning-cheat-sheet-for-mongodb)
-
+  
 ### Books
 - [Learning MongoDB]()
 - [MongoDB in Acton](https://amzn.to/3aSFmwu)
@@ -680,3 +676,12 @@ Free courses to get hands-on experience in Javascript
 - [javatpoint](https://www.javatpoint.com/javascript-tutorial)
 - [W3Schools](https://www.w3schools.com/js/)
 - [Codeacademy](https://www.codecademy.com/courses/introduction-to-javascript/informationals/learn-javascript-welcome)
+
+
+### Cheatsheets for javascript 
+
+- [Javascript CheatSheet 1 ](https://dev.to/j471n/javascript-cheat-sheet-you-needed-2id)
+- [Javascript CheatSheet 2 ](https://www.interviewbit.com/javascript-cheat-sheet/)
+- [Javascript CheatSheet 3 ](https://www.geeksforgeeks.org/javascript-cheat-sheet-a-basic-guide-to-javascript/)
+- [Javascript CheatSheet 4 ](https://htmlcheatsheet.com/js/)
+
