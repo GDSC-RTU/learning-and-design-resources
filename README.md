@@ -202,7 +202,15 @@ Build a better app and leave the operations to us. Save crucial development time
 - [Flutter & Dart Packages](https://pub.dev/)
 - [Flutter CodePen](https://codepen.io/flutter)
 - [Flutter Documentation](https://flutter.dev/docs)
+
+### YOUTUBE CHANNELS
 - [Flutter Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ) 
+- [Flutter.dev](https://www.youtube.com/c/flutterdev)
+- [The Flutter Way](https://www.youtube.com/c/TheFlutterWay)
+- [The Net Ninja](https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
+- [The FlutterMapp channel](https://www.youtube.com/c/FlutterMapp)
+- [The Flutter Ship channel](https://www.youtube.com/c/FlutterShipp)
+- [Code With Andrea channel](https://www.youtube.com/c/CodeWithAndrea/playlists)
 
 ## 7. Java - :
 
