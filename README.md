@@ -682,5 +682,5 @@ Free courses to get hands-on experience in Javascript
 - [W3Schools](https://www.w3schools.com/js/)
 - [Codeacademy](https://www.codecademy.com/courses/introduction-to-javascript/informationals/learn-javascript-welcome)
 
-### Free Programming Books
-- [GoalKicker](https://books.goalkicker.com) - It contains 40+ programming books.
+### Free Books platform for programming language
+- [GoalKicker](https://books.goalkicker.com) - This link contains 40+ programming language books for free. It is a great platform to select books in any programming language.
