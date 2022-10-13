@@ -691,5 +691,24 @@ Free courses to get hands-on experience in Javascript
 - [W3Schools](https://www.w3schools.com/js/)
 - [Codeacademy](https://www.codecademy.com/courses/introduction-to-javascript/informationals/learn-javascript-welcome)
 
+## Meteor
+- [Documentation](https://docs.meteor.com/)
+
+### Blogs and Websites
+- [Official: Blog |Meteor](https://meteoreducation.com/onlinelearningresources/)
+- [MongoDB tutorial](https://meteoritical.org/society/resources) 
+
+### Youtube tutorials
+- [Meteor Education](https://meteoreducation.com/onlinelearningresources/)
+- [Meteor Guide](https://guide.meteor.com/cordova.html)
+
+### Courses
+- [Coursera](https://www.coursera.org/courses?query=meteor)
+- [meteor](https://university.meteor.com/course/meteor-101)
+- [meteor](https://university.meteor.com/courses)
+- [zeolearn](https://www.zeolearn.com/meteor-js-training)
+- [NobleProg](https://www.zeolearn.com/meteor-js-training)
+- [hackr.io](https://hackr.io/tutorials/learn-meteor)
+
 ### Free Books platform for programming language
 - [GoalKicker](https://books.goalkicker.com) - This link contains 40+ programming language books for free. It is a great platform to select books in any programming language.
