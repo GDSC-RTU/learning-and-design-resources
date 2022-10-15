@@ -213,6 +213,13 @@ Build a better app and leave the operations to us. Save crucial development time
 - [The Flutter Ship channel](https://www.youtube.com/c/FlutterShipp)
 - [Code With Andrea channel](https://www.youtube.com/c/CodeWithAndrea/playlists)
 
+### Courses for Flutter
+- [Udemy](https://www.udemy.com/topic/google-flutter/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DSA_Catchall_la.EN_cc.INDIA&utm_content=deal4584&utm_term=_._ag_82569850245_._ad_533220805577_._kw__._de_c_._dm__._pl__._ti_dsa-43377404311_._li_1007805_._pd__._&matchtype=&gclid=CjwKCAjwtKmaBhBMEiwAyINuwC2zM4NNqhbkNAE6Ter0wFUaj1FYZm-MaVLiO7z2fmKuDyNHtu-PKRoCf1kQAvD_BwE) 
+- [Medium](https://medium.com/javarevisited/7-free-flutter-online-courses-to-build-android-and-ios-apps-in-2021-54c0c92f16f9)
+- [class central](https://www.classcentral.com/subject/flutter)
+- [SkillUp](https://www.simplilearn.com/free-flutter-foundation-course-skillup)
+
+
 ## 7. Java - :
 
  - [Core Java Tutorials](http://www.tutorialspoint.com/java/java_tutorial.pdf) -  Learn Basics of Java and Core java Concepts
