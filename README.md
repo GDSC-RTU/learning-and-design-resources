@@ -35,6 +35,7 @@
 - [MongoDB University](https://university.mongodb.com/courses/catalog)
 - [30 Days Coding](https://www.30dayscoding.com/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
+- [Udacity](https://www.udacity.com/)
 
 ## 1. Android - :
 - [What is Android](https://www.android.com/what-is-android/)
@@ -693,3 +694,15 @@ Free courses to get hands-on experience in Javascript
 
 ### Free Books platform for programming language
 - [GoalKicker](https://books.goalkicker.com) - This link contains 40+ programming language books for free. It is a great platform to select books in any programming language.
+
+
+## Graphic Designing -:
+
+### Youtube 
+ - [GFX Mentor](https://www.youtube.com/c/GFXMentor)
+ - [tutvid](https://www.youtube.com/c/tutvid)
+
+### Courses
+ - [Intro to the Design of Everyday Things](https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101)
+ - [Google UX Design Professional Certificate](https://www.coursera.org/professional-certificates/google-ux-design)
+
