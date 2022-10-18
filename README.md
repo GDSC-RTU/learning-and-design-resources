@@ -36,6 +36,7 @@
 - [30 Days Coding](https://www.30dayscoding.com/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
 - [KodeKloud](https://kodekloud.com/)
+- [Javatpoint](https://www.javatpoint.com/)
 
 ## 1. Android - :
 - [What is Android](https://www.android.com/what-is-android/)
@@ -90,6 +91,7 @@ Download these e-books from [here](https://drive.google.com/drive/folders/16FDR2
 -[ProgrammingKnowledge](https://www.youtube.com/watch?v=o-BgRjxNf2Q) - Crash Course
 -[FreeCodeCamp](https://www.youtube.com/watch?v=ER8oKX5myE0)
 -[Intellipaat](https://www.youtube.com/watch?v=g6w7KtbncxE)
+
 
 ### Books
 
@@ -355,6 +357,7 @@ Free courses to get hands-on experience in ReactJs
 ## HTML5 - :
 
 Experiment with HTML code on [codepen.io](https://codepen.io/)
+Code with Harry (https://www.youtube.com/watch?v=BsDoLVMnmZs)
 
 ### Documentation
 - [MDN Doumentation](https://developer.mozilla.org/en-US/docs/Learn/HTML)
