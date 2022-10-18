@@ -720,3 +720,12 @@ Free courses to get hands-on experience in Javascript
 
 ### Free Books platform for programming language
 - [GoalKicker](https://books.goalkicker.com) - This link contains 40+ programming language books for free. It is a great platform to select books in any programming language.
+
+
+## UI/UX
+
+### Youtube Tutorial
+
+ - [freeCodeCamp](https://youtu.be/c9Wg6Cb_YlU)
+ - [intellipaat](https://youtu.be/ONrvf5bjsF8)
+ - [Antony Conboy](https://youtu.be/I0-vBdh4sZ8)
