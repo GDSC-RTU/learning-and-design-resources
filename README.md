@@ -57,6 +57,7 @@
 -[Kotlin by JetBrains](https://www.youtube.com/c/Kotlin/playlists)
 -[FreeCodeCamp](https://www.youtube.com/watch?v=F9UC9DY-vIU)
 -[edureka](https://www.youtube.com/watch?v=OMxeOiPwAcQ)
+-[codeitup](https://www.youtube.com/c/codeitup)
 
 ### Books
 
@@ -91,6 +92,7 @@ Download these e-books from [here](https://drive.google.com/drive/folders/16FDR2
 -[ProgrammingKnowledge](https://www.youtube.com/watch?v=o-BgRjxNf2Q) - Crash Course
 -[FreeCodeCamp](https://www.youtube.com/watch?v=ER8oKX5myE0)
 -[Intellipaat](https://www.youtube.com/watch?v=g6w7KtbncxE)
+-[Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw)
 
 
 ### Books
