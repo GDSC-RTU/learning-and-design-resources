@@ -272,6 +272,7 @@ Build a better app and leave the operations to us. Save crucial development time
 -[Freecodecamp](https://www.youtube.com/watch?v=rfscVS0vtbw&t=3033s) Freecodecamp Crash Course
 -[Telusko](https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3) Python Tutorial for beginners
 -[Programming with Mosh](https://www.youtube.com/watch?v=_uQrJ0TkZlc&list=PLTjRvDozrdlxj5wgH4qkvwSOdHLOCx10f) Python Tutorial
+-[Code with harry](https://youtu.be/aqvDTCpNRek)Python tutorials for beginners in hindi
 
 ### Courses
 Free courses for Python
