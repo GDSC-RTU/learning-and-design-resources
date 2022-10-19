@@ -56,6 +56,7 @@
 -[Kotlin by JetBrains](https://www.youtube.com/c/Kotlin/playlists)
 -[FreeCodeCamp](https://www.youtube.com/watch?v=F9UC9DY-vIU)
 -[edureka](https://www.youtube.com/watch?v=OMxeOiPwAcQ)
+-[codeitup](https://www.youtube.com/c/codeitup)
 
 ### Books
 
@@ -90,6 +91,8 @@ Download these e-books from [here](https://drive.google.com/drive/folders/16FDR2
 -[ProgrammingKnowledge](https://www.youtube.com/watch?v=o-BgRjxNf2Q) - Crash Course
 -[FreeCodeCamp](https://www.youtube.com/watch?v=ER8oKX5myE0)
 -[Intellipaat](https://www.youtube.com/watch?v=g6w7KtbncxE)
+-[Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw)
+
 
 ### Books
 
@@ -214,6 +217,13 @@ Build a better app and leave the operations to us. Save crucial development time
 - [The Flutter Ship channel](https://www.youtube.com/c/FlutterShipp)
 - [Code With Andrea channel](https://www.youtube.com/c/CodeWithAndrea/playlists)
 
+### Courses for Flutter
+- [Udemy](https://www.udemy.com/topic/google-flutter/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DSA_Catchall_la.EN_cc.INDIA&utm_content=deal4584&utm_term=_._ag_82569850245_._ad_533220805577_._kw__._de_c_._dm__._pl__._ti_dsa-43377404311_._li_1007805_._pd__._&matchtype=&gclid=CjwKCAjwtKmaBhBMEiwAyINuwC2zM4NNqhbkNAE6Ter0wFUaj1FYZm-MaVLiO7z2fmKuDyNHtu-PKRoCf1kQAvD_BwE) 
+- [Medium](https://medium.com/javarevisited/7-free-flutter-online-courses-to-build-android-and-ios-apps-in-2021-54c0c92f16f9)
+- [class central](https://www.classcentral.com/subject/flutter)
+- [SkillUp](https://www.simplilearn.com/free-flutter-foundation-course-skillup)
+
+
 ## 7. Java - :
 
  - [Core Java Tutorials](http://www.tutorialspoint.com/java/java_tutorial.pdf) -  Learn Basics of Java and Core java Concepts
@@ -265,6 +275,7 @@ Build a better app and leave the operations to us. Save crucial development time
 -[Freecodecamp](https://www.youtube.com/watch?v=rfscVS0vtbw&t=3033s) Freecodecamp Crash Course
 -[Telusko](https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3) Python Tutorial for beginners
 -[Programming with Mosh](https://www.youtube.com/watch?v=_uQrJ0TkZlc&list=PLTjRvDozrdlxj5wgH4qkvwSOdHLOCx10f) Python Tutorial
+-[Code with harry](https://youtu.be/aqvDTCpNRek)Python tutorials for beginners in hindi
 
 ### Courses
 Free courses for Python
@@ -348,6 +359,7 @@ Free courses to get hands-on experience in ReactJs
 ## HTML5 - :
 
 Experiment with HTML code on [codepen.io](https://codepen.io/)
+Code with Harry (https://www.youtube.com/watch?v=BsDoLVMnmZs)
 
 ### Documentation
 - [MDN Doumentation](https://developer.mozilla.org/en-US/docs/Learn/HTML)
@@ -692,9 +704,27 @@ Free courses to get hands-on experience in Javascript
 - [W3Schools](https://www.w3schools.com/js/)
 - [Codeacademy](https://www.codecademy.com/courses/introduction-to-javascript/informationals/learn-javascript-welcome)
 
+## Meteor
+- [Documentation](https://docs.meteor.com/)
+
+### Blogs and Websites
+- [Official: Blog |Meteor](https://meteoreducation.com/onlinelearningresources/)
+- [MongoDB tutorial](https://meteoritical.org/society/resources) 
+
+### Youtube tutorials
+- [Meteor Education](https://meteoreducation.com/onlinelearningresources/)
+- [Meteor Guide](https://guide.meteor.com/cordova.html)
+
+### Courses
+- [Coursera](https://www.coursera.org/courses?query=meteor)
+- [meteor](https://university.meteor.com/course/meteor-101)
+- [meteor](https://university.meteor.com/courses)
+- [zeolearn](https://www.zeolearn.com/meteor-js-training)
+- [NobleProg](https://www.zeolearn.com/meteor-js-training)
+- [hackr.io](https://hackr.io/tutorials/learn-meteor)
+
 ### Free Books platform for programming language
 - [GoalKicker](https://books.goalkicker.com) - This link contains 40+ programming language books for free. It is a great platform to select books in any programming language.
-
 
 ## Graphic Designing -:
 
