@@ -139,6 +139,7 @@ John Papa | https://johnpapa.net/ |
 - [TheNewBoston C++](https://thenewboston.com/videos.php?cat=16)
 - [TheNewBoston C](https://thenewboston.com/videos.php?cat=14)
 - [TheNewBoston C++ GUI with QT](https://thenewboston.com/videos.php?cat=57)
+- [c++ by code with harry](https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL)
 
 
 ## 4. Data Structures -:
