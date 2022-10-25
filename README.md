@@ -347,6 +347,7 @@ Free courses to get hands-on experience in ReactJs
 - [Bitfumes](https://www.youtube.com/watch?v=I6tbhNUU96Y)
 - [freeCodeCamp](https://www.youtube.com/watch?v=DLX62G4lc44)
 - [Codevolution](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
+- [Thapa Technical](https://www.youtube.com/playlist?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ)
 
 ### Books
 - [Full Stack React](https://amzn.to/3FqerWV)
@@ -401,6 +402,7 @@ Vectors, Stickers and Gifs for your websites
 - [Font Awesome](https://fontawesome.com/)
 - [Giphy](https://giphy.com/)
 - [Heroicons](https://heroicons.dev)
+- [Lordicon](https://lordicon.com/) Animated Icons
 Design Inspirations
 - [Awwwards](https://www.awwwards.com/websites/com/)
 - [Collect UI](https://collectui.com/)
@@ -690,11 +692,14 @@ Courses to get hands-on experience in R
 Free courses to get hands-on experience in Javascript
 - [Javascript Essentials](https://www.udemy.com/cart/subscribe/course/707962/) By Udemy
 - [Javascript Fundamentals](https://www.udemy.com/course/javascriptfundamentals/learn/lecture/6213836#overview) By Udemy
+- [JavaScript and the DOM](https://www.udacity.com/course/javascript-and-the-dom--ud117) By Udacity
+- [ES6 - JavaScript Improved](https://www.udacity.com/course/es6-javascript-improved--ud356) By Udacity
 
 ### Youtube Tutorial
  - [freeCodeCamp](https://www.youtube.com/watch?v=jS4aFq5-91M)
  - [CodeWithHarry](https://www.youtube.com/watch?v=hKB-YGF14SY&t=12467s)
  - [Clever Programmer](https://www.youtube.com/watch?v=lI1ae4REbFM)
+ - [Thapa Technical](https://www.youtube.com/playlist?list=PLwGdqUZWnOp1hqyT6h7pY0RlXIIGlE5U0)
 
 ### Books
 - [Javascript the definitive guide]( https://www.flipkart.com/javascript-definitive-guide-master-world-s-most-used-programming-language-7th-greyscale-indian-edition-paperback-david-flanagan/p/itm233ae3c0ee959?pid=9789352139965&lid=LSTBOK97893521399651ZTYOF&marketplace=FLIPKART&q=JAVASCRIPT+BOOKS&store=bks&srno=s_1_12&otracker=search&otracker1=search&fm=organic&iid=3240155b-af1c-4e8e-b878-0f19f408651d.9789352139965.SEARCH&ppt=hp&ppn=homepage&ssid=s25obsv4jk0000001665421923517&qH=547a642192687c89) by David Flanagan
