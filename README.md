@@ -742,3 +742,18 @@ Free courses to get hands-on experience in Javascript
  - [Intro to the Design of Everyday Things](https://www.udacity.com/course/intro-to-the-design-of-everyday-things--design101)
  - [Google UX Design Professional Certificate](https://www.coursera.org/professional-certificates/google-ux-design)
 
+## DART
+### Courses
+ - [Class central](https://www.classcentral.com/course/youtube-dart-tutorial-106229/classroom)
+ - [Udemy](https://www.udemy.com/course/learn-flutter-by-doing/)
+ - [Great Learning](https://www.mygreatlearning.com/academy/learn-for-free/courses/android-application-development)
+
+### Websites
+ - [w3schools](https://www.w3schools.io/languages/dart-tutorials/)
+ - [dart.dev](https://dart.dev/tutorials)
+ - [tutorialspoint](https://www.tutorialspoint.com/dart_programming/index.htm)
+ - [javatpoint](https://www.javatpoint.com/dart-programming)
+
+### Youtube
+ - [freeCodeCamp](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q)
+ - [Smartherd](https://www.youtube.com/playlist?list=PLlxmoA0rQ-LyHW9voBdNo4gEEIh0SjG-q)
