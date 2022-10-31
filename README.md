@@ -277,6 +277,7 @@ Build a better app and leave the operations to us. Save crucial development time
 -[Telusko](https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3) Python Tutorial for beginners
 -[Programming with Mosh](https://www.youtube.com/watch?v=_uQrJ0TkZlc&list=PLTjRvDozrdlxj5wgH4qkvwSOdHLOCx10f) Python Tutorial
 -[Code with harry](https://youtu.be/aqvDTCpNRek)Python tutorials for beginners in hindi
+-[Corey Chafer](https://youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)Python tutorials by Corey Chafer
 
 ### Courses
 Free courses for Python
