@@ -758,3 +758,20 @@ Free courses to get hands-on experience in Javascript
 ### Youtube
  - [freeCodeCamp](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q)
  - [Smartherd](https://www.youtube.com/playlist?list=PLlxmoA0rQ-LyHW9voBdNo4gEEIh0SjG-q)
+ 
+ ## Salesforce
+ 
+### Documentation
+ - [Salesforce Documentation](https://developer.salesforce.com/docs)
+ 
+### Websites
+ - [Salesforce Official Free Learning Platform](https://trailhead.salesforce.com/)
+ - [Salesforce Blog](https://www.salesforce.com/blog/)
+ - [SalesforceBen](https://www.salesforceben.com/)
+ - [Automation Champion](https://automationchampion.com/)
+ - [Unofficial SF](https://unofficialsf.com/)
+
+### Youtube
+ - [Salesforce Hulk](https://www.youtube.com/c/SalesforceHulk)
+ - [Salesforce Apex Hours](https://www.youtube.com/channel/UChTdRj6YfwqhR_WEFepkcJw)
+
