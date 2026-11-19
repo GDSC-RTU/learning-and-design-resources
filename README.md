@@ -394,6 +394,7 @@ Experiment with CSS code on [codepen.io](https://codepen.io/)
 - [Curated colour palettes on colorhunt.co](https://colorhunt.co/)
 - [CSS-Tricks](https://css-tricks.com) daily articles about CSS, HTML, JavaScript, and all things related to web design and development
 - [Create a Favicon with favicon.cc](https://www.favicon.cc/)
+- [PixelArtHive](https://pixelarthive.com/) to convert images to pixel art and resize pixel graphics locally in the browser for free
 - [Google Fonts](https://fonts.google.com/) to get different font styles for your website
 - [UI Patterns](http://ui-patterns.com/patterns) for different design patterns for your website
 Vectors, Stickers and Gifs for your websites
